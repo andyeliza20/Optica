@@ -33,7 +33,22 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="BinaryIntellect.DataAccess">
+      <HintPath>..\CS\bin\Debug\BinaryIntellect.DataAccess.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Mono.Security">
+      <HintPath>..\CS\bin\Debug\Mono.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Security.Protocol.Tls">
+      <HintPath>..\CS\bin\Debug\Mono.Security.Protocol.Tls.dll</HintPath>
+    </Reference>
+    <Reference Include="NauckIT.PostgreSQLProvider">
+      <HintPath>..\CS\bin\Debug\NauckIT.PostgreSQLProvider.dll</HintPath>
+    </Reference>
+    <Reference Include="Npgsql">
+      <HintPath>..\CS\bin\Debug\Npgsql.dll</HintPath>
+    </Reference>
     <Reference Include="System.Data.SqlServerCe, Version=4.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
@@ -104,7 +119,9 @@
   <ItemGroup>
     <Content Include="Plantillas\Principal.Master" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Clientes\" />
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
   <ProjectExtensions>

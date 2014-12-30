@@ -1,0 +1,26 @@
+C:\Archivos de programa\BinaryIntellect Consulting\BinaryIntellect DatabaseHelper\CS\bin\Debug\BinaryIntellect.DataAccess.dll
+C:\Archivos de programa\BinaryIntellect Consulting\BinaryIntellect DatabaseHelper\CS\bin\Debug\BinaryIntellect.DataAccess.pdb
+C:\Archivos de programa\BinaryIntellect Consulting\BinaryIntellect DatabaseHelper\CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Archivos de programa\BinaryIntellect Consulting\BinaryIntellect DatabaseHelper\CS\obj\Debug\BinaryIntellect.DataAccess.dll
+C:\Archivos de programa\BinaryIntellect Consulting\BinaryIntellect DatabaseHelper\CS\obj\Debug\BinaryIntellect.DataAccess.pdb
+F:\Clases FIS (2006 - 2009)\Clases\C Sharp\C# - ADO .NET\Varios\BinaryIntellect DatabaseHelper\CS\bin\Debug\BinaryIntellect.DataAccess.dll
+F:\Clases FIS (2006 - 2009)\Clases\C Sharp\C# - ADO .NET\Varios\BinaryIntellect DatabaseHelper\CS\bin\Debug\BinaryIntellect.DataAccess.pdb
+F:\Clases FIS (2006 - 2009)\Clases\C Sharp\C# - ADO .NET\Varios\BinaryIntellect DatabaseHelper\CS\obj\Debug\ResolveAssemblyReference.cache
+F:\Clases FIS (2006 - 2009)\Clases\C Sharp\C# - ADO .NET\Varios\BinaryIntellect DatabaseHelper\CS\obj\Debug\BinaryIntellect.DataAccess.dll
+F:\Clases FIS (2006 - 2009)\Clases\C Sharp\C# - ADO .NET\Varios\BinaryIntellect DatabaseHelper\CS\obj\Debug\BinaryIntellect.DataAccess.pdb
+C:\Users\Tannya\Desktop\Desarrollo\DAL Multibase\BinaryIntellect DatabaseHelper\CS\bin\Debug\BinaryIntellect.DataAccess.dll
+C:\Users\Tannya\Desktop\Desarrollo\DAL Multibase\BinaryIntellect DatabaseHelper\CS\bin\Debug\BinaryIntellect.DataAccess.pdb
+C:\Users\Tannya\Desktop\Desarrollo\DAL Multibase\BinaryIntellect DatabaseHelper\CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tannya\Desktop\Desarrollo\DAL Multibase\BinaryIntellect DatabaseHelper\CS\obj\Debug\BinaryIntellect.DataAccess.dll
+C:\Users\Tannya\Desktop\Desarrollo\DAL Multibase\BinaryIntellect DatabaseHelper\CS\obj\Debug\BinaryIntellect.DataAccess.pdb
+C:\Users\Tannya\Desktop\ProyectoFinal\CS\bin\Debug\BinaryIntellect.DataAccess.dll
+C:\Users\Tannya\Desktop\ProyectoFinal\CS\bin\Debug\BinaryIntellect.DataAccess.pdb
+C:\Users\Tannya\Desktop\ProyectoFinal\CS\bin\Debug\Mono.Security.dll
+C:\Users\Tannya\Desktop\ProyectoFinal\CS\bin\Debug\Mono.Security.Protocol.Tls.dll
+C:\Users\Tannya\Desktop\ProyectoFinal\CS\bin\Debug\NauckIT.PostgreSQLProvider.dll
+C:\Users\Tannya\Desktop\ProyectoFinal\CS\bin\Debug\Npgsql.dll
+C:\Users\Tannya\Desktop\ProyectoFinal\CS\bin\Debug\Npgsql.pdb
+C:\Users\Tannya\Desktop\ProyectoFinal\CS\bin\Debug\Npgsql.xml
+C:\Users\Tannya\Desktop\ProyectoFinal\CS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tannya\Desktop\ProyectoFinal\CS\obj\Debug\BinaryIntellect.DataAccess.dll
+C:\Users\Tannya\Desktop\ProyectoFinal\CS\obj\Debug\BinaryIntellect.DataAccess.pdb

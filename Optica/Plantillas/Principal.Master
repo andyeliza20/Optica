@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Principal.master.cs" Inherits="Optica.Plantillas.Principal" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <%--Activar mayusculas y ñ--%>
+    <meta charset="utf-8" />
+    <%--Compatibilidad en los navegadores--%>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <%--Activar Escala de Celular: Hace que se arregle en un celular a su tamaño--%>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <%--Llamadas a la css--%>
+    <link href="../Content/header.css" rel="stylesheet" type="text/css" />
+    <title>Optica Andina</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+<%--Inicio Header--%>
+    <div id="wrapper">
+        <header>
+            <h1>My Portafolio</h1>
+            <h2>web design by Gabriel</h2>
+        </header>
+        <nav class="menu">
+            <ul class="main_menu">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">My Work</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </div>
+<%--Fin Header--%>
+<form id="form1" runat="server">
+<div>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+    </asp:ContentPlaceHolder>
+</div>
+</form>
+
+</body>
+</html>

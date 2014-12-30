@@ -1,0 +1,4 @@
+D:\OptimaFinal\OpticaWeb\NegociosInteligente\bin\Debug\NegociosInteligente.dll
+D:\OptimaFinal\OpticaWeb\NegociosInteligente\bin\Debug\NegociosInteligente.pdb
+D:\OptimaFinal\OpticaWeb\NegociosInteligente\obj\Debug\NegociosInteligente.dll
+D:\OptimaFinal\OpticaWeb\NegociosInteligente\obj\Debug\NegociosInteligente.pdb

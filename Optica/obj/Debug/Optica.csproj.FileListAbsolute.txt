@@ -1,0 +1,4 @@
+D:\OptimaFinal\OpticaWeb\Optica\bin\Optica.dll
+D:\OptimaFinal\OpticaWeb\Optica\bin\Optica.pdb
+D:\OptimaFinal\OpticaWeb\Optica\obj\Debug\Optica.dll
+D:\OptimaFinal\OpticaWeb\Optica\obj\Debug\Optica.pdb

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optica", "Optica\Optica.csproj", "{598E598D-5ECA-433C-88BE-CADAA3ACBC0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccesoDatos", "AccesoDatos\AccesoDatos.csproj", "{330672AB-1F14-4C6E-A6AB-C904B120B642}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NegociosInteligente", "NegociosInteligente\NegociosInteligente.csproj", "{89A09098-4948-44FD-8B13-04B4B77FC659}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{598E598D-5ECA-433C-88BE-CADAA3ACBC0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{598E598D-5ECA-433C-88BE-CADAA3ACBC0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{598E598D-5ECA-433C-88BE-CADAA3ACBC0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{598E598D-5ECA-433C-88BE-CADAA3ACBC0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{330672AB-1F14-4C6E-A6AB-C904B120B642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{330672AB-1F14-4C6E-A6AB-C904B120B642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{330672AB-1F14-4C6E-A6AB-C904B120B642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{330672AB-1F14-4C6E-A6AB-C904B120B642}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A09098-4948-44FD-8B13-04B4B77FC659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A09098-4948-44FD-8B13-04B4B77FC659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A09098-4948-44FD-8B13-04B4B77FC659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A09098-4948-44FD-8B13-04B4B77FC659}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

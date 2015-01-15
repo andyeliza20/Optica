@@ -4,5 +4,14 @@ D:\OptimaFinal\OpticaWeb\NegociosInteligente\obj\Debug\NegociosInteligente.dll
 D:\OptimaFinal\OpticaWeb\NegociosInteligente\obj\Debug\NegociosInteligente.pdb
 C:\Users\ANDYELIZA\Downloads\Prueba\Optica\NegociosInteligente\bin\Debug\NegociosInteligente.dll
 C:\Users\ANDYELIZA\Downloads\Prueba\Optica\NegociosInteligente\bin\Debug\NegociosInteligente.pdb
+C:\Users\ANDYELIZA\Downloads\Prueba\Optica\NegociosInteligente\bin\Debug\BinaryIntellect.DataAccess.dll
+C:\Users\ANDYELIZA\Downloads\Prueba\Optica\NegociosInteligente\bin\Debug\Mono.Security.dll
+C:\Users\ANDYELIZA\Downloads\Prueba\Optica\NegociosInteligente\bin\Debug\Mono.Security.Protocol.Tls.dll
+C:\Users\ANDYELIZA\Downloads\Prueba\Optica\NegociosInteligente\bin\Debug\NauckIT.PostgreSQLProvider.dll
+C:\Users\ANDYELIZA\Downloads\Prueba\Optica\NegociosInteligente\bin\Debug\Npgsql.dll
+C:\Users\ANDYELIZA\Downloads\Prueba\Optica\NegociosInteligente\bin\Debug\BinaryIntellect.DataAccess.pdb
+C:\Users\ANDYELIZA\Downloads\Prueba\Optica\NegociosInteligente\bin\Debug\Npgsql.pdb
+C:\Users\ANDYELIZA\Downloads\Prueba\Optica\NegociosInteligente\bin\Debug\Npgsql.xml
+C:\Users\ANDYELIZA\Downloads\Prueba\Optica\NegociosInteligente\obj\Debug\NegociosInteligente.csprojResolveAssemblyReference.cache
 C:\Users\ANDYELIZA\Downloads\Prueba\Optica\NegociosInteligente\obj\Debug\NegociosInteligente.dll
 C:\Users\ANDYELIZA\Downloads\Prueba\Optica\NegociosInteligente\obj\Debug\NegociosInteligente.pdb

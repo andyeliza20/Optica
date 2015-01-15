@@ -31,6 +31,21 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="BinaryIntellect.DataAccess">
+      <HintPath>..\CS\bin\Debug\BinaryIntellect.DataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Security">
+      <HintPath>..\CS\bin\Debug\Mono.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Security.Protocol.Tls">
+      <HintPath>..\CS\bin\Debug\Mono.Security.Protocol.Tls.dll</HintPath>
+    </Reference>
+    <Reference Include="NauckIT.PostgreSQLProvider">
+      <HintPath>..\CS\bin\Debug\NauckIT.PostgreSQLProvider.dll</HintPath>
+    </Reference>
+    <Reference Include="Npgsql">
+      <HintPath>..\CS\bin\Debug\Npgsql.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
